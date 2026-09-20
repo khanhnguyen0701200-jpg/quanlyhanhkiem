@@ -1,0 +1,16 @@
+{
+  "version": 4,
+  "admin": {
+    "username": "admin",
+    "password": "admin123"
+  },
+  "teachers": [],
+  "students": [],
+  "rules": [],
+  "teacherRules": [],
+  "history": [],
+  "settings": {
+    "siteName": "Quản lý điểm hạnh kiểm",
+    "maxScore": 10
+  }
+}
